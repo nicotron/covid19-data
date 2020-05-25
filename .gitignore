@@ -45,3 +45,5 @@ nodeLanguageServer/**
 nodeLanguageServer.*/**
 .vscode/
 src/getdata/scraping/helpers/covid-chile.json
+*.class
+*.java
